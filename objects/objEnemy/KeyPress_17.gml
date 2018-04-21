@@ -7,13 +7,14 @@ var diffY;
 diffX = x - objCharacter.x;
 diffY = y - objCharacter.y;
 
-if (abs(diffX) > abs(diffY)) {
-	x = x+16;
+
+if (abs(diffX) > abs(diffY)) { // RÖR I Y
+	y = y+16;
 }
-else if (abs(diffX) < abs(diffY)) {
+else if (abs(diffX) < abs(diffY)) { //RÖR I X
 	y = y-16;	
 }
-else if (abs(diffX) == abs(diffY)) {
+else if (abs(diffX) == abs(diffY)) { // VÄLJ
 	y = y+16;
 	x = x+16;
 }
