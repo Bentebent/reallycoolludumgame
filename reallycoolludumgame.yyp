@@ -255,14 +255,6 @@
             }
         },
         {
-            "Key": "9d1d86dc-d03b-400d-9501-6b1429654c87",
-            "Value": {
-                "id": "c53c8a5a-268f-4da8-8516-e2c7eb37de63",
-                "resourcePath": "sprites\\sprCloseGameButton\\sprCloseGameButton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9de128a7-13ea-4550-9ff3-ea1661d67cd2",
             "Value": {
                 "id": "6bb0a549-1353-477a-8d62-f4090cf58158",
@@ -307,6 +299,14 @@
             "Value": {
                 "id": "b62f61e9-04b8-4a6a-bcdf-35ff901bebfe",
                 "resourcePath": "objects\\objCharacter\\objCharacter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b4855d96-7c59-459f-b966-a203fcf69694",
+            "Value": {
+                "id": "29d5bf67-421b-481f-8009-8096ad7b535d",
+                "resourcePath": "objects\\objMainMenuSkeleton\\objMainMenuSkeleton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -404,14 +404,6 @@
                 "id": "ccb23eaf-7efb-465b-a404-3fde2c0c68c3",
                 "resourcePath": "rooms\\MainMenu\\MainMenu.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "ec46aa3a-98bc-4dcc-8e37-b4c1f6e04d32",
-            "Value": {
-                "id": "c312fb08-0abe-439e-9751-dabb3064484c",
-                "resourcePath": "sprites\\sprStartGameButton\\sprStartGameButton.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
