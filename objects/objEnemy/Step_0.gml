@@ -17,13 +17,27 @@ if global.turnIndex > 0
 			{
 				y = y-sign(diffY)*16;
 			}
-		}
+			else if !(sign(diffX) == 0)
+			{
+				if !(collision_point(x-sign(diffX)*16,y,objWall,false,false)) 
+				{
+					x = x-sign(diffX)*16;
+				}					
+			}
+		} 
 		
 		else if (abs(diffX) > abs(diffY))  //RÖR I X
 		{
 			if !(collision_point(x-sign(diffX)*16,y,objWall,false,false)) 
 			{
 				x = x-sign(diffX)*16;
+			}
+			else if !(sign(diffY) == 0)
+			{
+				if !(collision_point(x,y-sign(diffY)*16,objWall,false,false)) 
+				{
+					y = y-sign(diffY)*16;
+				}				
 			}
 		}
 	}

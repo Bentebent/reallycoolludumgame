@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2b75f450-2a09-477c-9fa9-b7c88af018bc",
+            "Value": {
+                "id": "5847780f-ff99-409c-9f0b-20e3c76dba7b",
+                "resourcePath": "views\\ebcc324f-b682-42f5-8b2d-07609747ec73-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "30e0fb67-d31d-432f-bac8-cde29e460c8c",
             "Value": {
                 "id": "4b986564-57c3-48cf-a486-db69902e94f0",
@@ -100,7 +108,7 @@
                 "id": "d60e5df4-25b1-42fb-a8e2-c9094a83e27c",
                 "resourcePath": "objects\\objHole\\objHole.yy",
                 "resourceType": "GMObject"
-            }
+		}
         },
         {
             "Key": "3f0f519d-80ae-44d9-a33c-da8150f50ad6",
@@ -108,7 +116,16 @@
                 "id": "f59f91ce-f4ce-4edd-bfb8-5c2582896d78",
                 "resourcePath": "objects\\objSwitchDoor\\objSwitchDoor.yy",
                 "resourceType": "GMObject"
-            }
+		}
+	},
+	{
+
+            "Key": "403fa69f-3d0d-460a-859b-decd43f95af8",
+            "Value": {
+                "id": "207caf97-29ed-4cdf-ab4f-90015dac2504",
+                "resourcePath": "tilesets\\tileFloor\\tileFloor.yy",
+                "resourceType": "GMTileSet"
+		}
         },
         {
             "Key": "42705e32-20e0-491d-bf0d-48fa7981e421",
@@ -135,6 +152,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "6635f243-d360-4f3b-90ae-742da334cc68",
             "Value": {
                 "id": "412858e4-55d7-4af7-bc05-15a31c56729d",
@@ -163,6 +181,12 @@
             "Value": {
                 "id": "74f89c02-2bb0-4357-8989-8b9f1ece6e97",
                 "resourcePath": "sprites\\sprStickyTrap\\sprStickyTrap.yy",
+=======
+            "Key": "62d83533-8d1f-472d-83f8-c8b31b9a0800",
+            "Value": {
+                "id": "7e57a3d0-51fa-4ca0-81df-6a59824cfa7f",
+                "resourcePath": "sprites\\sprFloor\\sprFloor.yy",
+>>>>>>> e48e838d0f1b4a5554a372007ce4c49d81ea9424
                 "resourceType": "GMSprite"
             }
         },
@@ -346,7 +370,7 @@
             "Key": "ebcc324f-b682-42f5-8b2d-07609747ec73",
             "Value": {
                 "id": "ccb23eaf-7efb-465b-a404-3fde2c0c68c3",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Room1\\Room1.yy",
                 "resourceType": "GMRoom"
             }
         },
