@@ -247,14 +247,6 @@
             }
         },
         {
-            "Key": "9a449910-81df-4081-9f0e-8fae70f0a5c7",
-            "Value": {
-                "id": "0683405d-b9d5-42d3-95cc-a7682fdf4383",
-                "resourcePath": "objects\\objCloseGameButton\\objCloseGameButton.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "9c9465e2-b96d-4134-b744-1832cd7c94ad",
             "Value": {
                 "id": "69414795-7140-4000-bff2-e085dbfcd8d8",
@@ -268,6 +260,14 @@
                 "id": "c53c8a5a-268f-4da8-8516-e2c7eb37de63",
                 "resourcePath": "sprites\\sprCloseGameButton\\sprCloseGameButton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9de128a7-13ea-4550-9ff3-ea1661d67cd2",
+            "Value": {
+                "id": "6bb0a549-1353-477a-8d62-f4090cf58158",
+                "resourcePath": "fonts\\fntMainMenuUnderText\\fntMainMenuUnderText.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -316,14 +316,6 @@
                 "id": "a294e356-7b89-4004-bffd-33a4a0daa386",
                 "resourcePath": "sprites\\sprDoor\\sprDoor.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b6566fd9-91ab-4df5-a56f-bf0e75e7a26c",
-            "Value": {
-                "id": "eab2a90e-85b0-45bf-bb33-f44f17d0f768",
-                "resourcePath": "objects\\objStartGameButton\\objStartGameButton.yy",
-                "resourceType": "GMObject"
             }
         },
         {
