@@ -6,9 +6,11 @@ for (i = 0; i < 64; i++)
 	}
 }
 
-global.arrayTurn[0] = objCharacter;
 
-for (i = 1; i < instance_number(objEnemy); i++)
+global.arrayTurn[0] = objCharacter;
+var enemyCount = instance_number(objEnemy);
+
+for (i = 1; i <= enemyCount; i++)
 {
 	global.arrayTurn[i] = instance_find(objEnemy,i)	
 }
