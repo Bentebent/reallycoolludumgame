@@ -5,3 +5,10 @@ for (i = 0; i < 64; i++)
 		mapArray[i,j] = 0;
 	}
 }
+
+arrayTurn[0] = objCharacter;
+
+for (i = 1; i < instance_number(objEnemy);)
+{
+	arrayTurn[i] = instance_find(objEnemy,i)	
+}
