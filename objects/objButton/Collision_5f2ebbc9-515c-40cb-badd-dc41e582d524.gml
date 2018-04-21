@@ -1,6 +1,6 @@
 /// @description Open door
 // You can write your code in this editor
-var thewall;
+/*var thewall;
 var thedoor;
 
 if (hasCollided == 0) {
@@ -12,4 +12,6 @@ if (hasCollided == 0) {
 if (thewall.x == thedoor.x && thewall.y == thedoor.y && hasCollided == 1) {
 	instance_destroy(thewall);
 	hasCollided = 2;
-}
+}*/
+
+//buttonedPressed = buttonedPressed + 1;
