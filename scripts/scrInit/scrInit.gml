@@ -6,13 +6,12 @@ for (i = 0; i < 64; i++)
 	}
 }
 
-global.arrayTurn = 0;
+global.arrayTurn[0] = objCharacter;
+var enemyCount = instance_number(objEnemy);
 
-arrayTurn[0] = objCharacter;
-
-for (i = 1; i < instance_number(objEnemy); i++)
+for (i = 0; i < enemyCount; i++)
 {
-	arrayTurn[i] = instance_find(objEnemy,i)	
+	global.arrayTurn[i + 1] = instance_find(objEnemy, i)	
 }
 
 global.turnIndex = 0;

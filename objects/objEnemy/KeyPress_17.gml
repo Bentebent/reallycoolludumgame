@@ -1,7 +1,7 @@
 /// @description Move towards player
 // You can write your code in this editor
 
-var diffX;
+/*var diffX;
 var diffY;
 
 diffX = x - objCharacter.x;
