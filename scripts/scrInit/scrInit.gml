@@ -9,8 +9,9 @@ for (i = 0; i < 64; i++)
 global.arrayTurn = 0;
 
 arrayTurn[0] = objCharacter;
+var enemyCount = instance_number(objEnemy);
 
-for (i = 1; i < instance_number(objEnemy); i++)
+for (i = 1; i <= enemyCount; i++)
 {
 	arrayTurn[i] = instance_find(objEnemy,i)	
 }
