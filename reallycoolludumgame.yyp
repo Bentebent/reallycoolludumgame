@@ -152,7 +152,6 @@
             }
         },
         {
-<<<<<<< HEAD
             "Key": "6635f243-d360-4f3b-90ae-742da334cc68",
             "Value": {
                 "id": "412858e4-55d7-4af7-bc05-15a31c56729d",
@@ -181,12 +180,14 @@
             "Value": {
                 "id": "74f89c02-2bb0-4357-8989-8b9f1ece6e97",
                 "resourcePath": "sprites\\sprStickyTrap\\sprStickyTrap.yy",
-=======
+		"resourceType": "GMSprite"
+		}
+	},
+	{
             "Key": "62d83533-8d1f-472d-83f8-c8b31b9a0800",
             "Value": {
                 "id": "7e57a3d0-51fa-4ca0-81df-6a59824cfa7f",
                 "resourcePath": "sprites\\sprFloor\\sprFloor.yy",
->>>>>>> e48e838d0f1b4a5554a372007ce4c49d81ea9424
                 "resourceType": "GMSprite"
             }
         },
