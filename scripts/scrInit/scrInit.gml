@@ -6,6 +6,8 @@ for (i = 0; i < 64; i++)
 	}
 }
 
+global.arrayTurn = 0;
+
 global.arrayTurn[0] = objCharacter;
 var enemyCount1 = instance_number(objEnemy)
 var enemyCount2 = instance_number(objEnemy2);

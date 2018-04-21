@@ -68,13 +68,13 @@ if global.turnIndex > 0
 
 		if (abs(diffX) <= abs(diffY))  // RÖR I Y
 		{
-			if !(collision_point(x,y-sign(diffY)*16,objWall,false,false)) 
+			if (!(collision_point(x,y-sign(diffY)*16,objWall,false,false)) && !(collision_point(x,y-sign(diffY)*16,objEnemy,false,false)) && !(collision_point(x,y-sign(diffY)*16,objEnemy2,false,false)))
 			{
 				y = y-sign(diffY)*16;
 			}
-			else if !(sign(diffX) == 0)
+			else if !(sign(diffX) == 0) // RÖR I X, OM Y INTE GÅR
 			{
-				if !(collision_point(x-sign(diffX)*16,y,objWall,false,false)) 
+				if (!(collision_point(x-sign(diffX)*16,y,objWall,false,false)) && !(collision_point(x-sign(diffX)*16,y,objEnemy,false,false)) && !(collision_point(x-sign(diffX)*16,y,objEnemy2,false,false))) 
 				{
 					x = x-sign(diffX)*16;
 				}					
@@ -83,13 +83,13 @@ if global.turnIndex > 0
 		
 		else if (abs(diffX) > abs(diffY))  //RÖR I X
 		{
-			if !(collision_point(x-sign(diffX)*16,y,objWall,false,false)) 
+			if (!(collision_point(x-sign(diffX)*16,y,objWall,false,false)) && !(collision_point(x-sign(diffX)*16,y,objEnemy,false,false)) && !(collision_point(x-sign(diffX)*16,y,objEnemy2,false,false)))
 			{
 				x = x-sign(diffX)*16;
 			}
-			else if !(sign(diffY) == 0)
+			else if !(sign(diffY) == 0) // RÖR I Y, OM X INTE GÅR
 			{
-				if !(collision_point(x,y-sign(diffY)*16 ,objWall,false,false)) 
+				if (!(collision_point(x,y-sign(diffY)*16,objWall,false,false)) && !(collision_point(x,y-sign(diffY)*16,objEnemy,false,false)) && !(collision_point(x,y-sign(diffY)*16,objEnemy2,false,false)))
 				{
 					y = y-sign(diffY)*16;
 				}				
