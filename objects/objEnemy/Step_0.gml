@@ -30,8 +30,8 @@ if global.turnIndex > 0
 
 global.turnIndex += 1;
 }
-
-if global.turnIndex > array_length_1d(global.arrayTurn) - 1
+var arrayLength = array_length_1d(global.arrayTurn);
+if global.turnIndex > (array_length_1d(global.arrayTurn) -1)
 {
 	global.turnIndex = 0;
 }
