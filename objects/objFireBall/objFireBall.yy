@@ -1,8 +1,8 @@
 {
-    "id": "17232160-3526-4b49-a6e6-aef01fc62293",
+    "id": "26e63b5e-3a3d-487d-b509-de076536d0f4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objWall",
+    "name": "objFireBall",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "df63e125-af92-4357-971b-6dbaa4aa0576",
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
