@@ -19,7 +19,7 @@ var arrayCount = array_length_1d(global.arrayTurn);
 
 for (i = 0; i < enemyCount2; i++)
 {
-	global.arrayTurn[i + arrayCount + 1] = instance_find(objEnemy2, i)	
+	global.arrayTurn[i + arrayCount] = instance_find(objEnemy2, i)	
 }
 
 
