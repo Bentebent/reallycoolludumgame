@@ -3,4 +3,8 @@
 lastX = x;
 lastY = y;
 
-y -= 16;
+if global.turnIndex = 0
+{		
+	y -= 16;
+	global.turnIndex += 1;
+}
