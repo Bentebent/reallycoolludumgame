@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "0c561246-ffff-43af-bd87-4bef97682ad4",
-            "Value": {
-                "id": "20dfbe15-c250-4e5a-be96-159a5ab41d52",
-                "resourcePath": "sprites\\sprTeleport\\sprTeleport.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "101d1686-4ade-49bc-a999-2819493958c5",
             "Value": {
                 "id": "32398482-99b4-4150-9d0e-8bfa541e7c3c",
@@ -119,22 +111,6 @@
             }
         },
         {
-            "Key": "39d2f070-5513-43cb-93fd-406c6e079af1",
-            "Value": {
-                "id": "d60e5df4-25b1-42fb-a8e2-c9094a83e27c",
-                "resourcePath": "objects\\objHole\\objHole.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "3f0f519d-80ae-44d9-a33c-da8150f50ad6",
-            "Value": {
-                "id": "f59f91ce-f4ce-4edd-bfb8-5c2582896d78",
-                "resourcePath": "objects\\objSwitchDoor\\objSwitchDoor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "403fa69f-3d0d-460a-859b-decd43f95af8",
             "Value": {
                 "id": "207caf97-29ed-4cdf-ab4f-90015dac2504",
@@ -183,27 +159,11 @@
             }
         },
         {
-            "Key": "71d31ae1-f70b-4adf-afb7-96db3c21efca",
-            "Value": {
-                "id": "7910fbba-bc74-4061-8e33-39b1975a4655",
-                "resourcePath": "objects\\objStickyTrap\\objStickyTrap.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "77173fc0-1d99-4964-bb59-d7908a6ee4a5",
             "Value": {
                 "id": "09f83330-ec4f-4ef9-b808-913ffad0caa1",
                 "resourcePath": "rooms\\Room1\\Room1.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "7cab8916-94ac-40a3-82e7-a03107db69c6",
-            "Value": {
-                "id": "74f89c02-2bb0-4357-8989-8b9f1ece6e97",
-                "resourcePath": "sprites\\sprStickyTrap\\sprStickyTrap.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -271,14 +231,6 @@
             }
         },
         {
-            "Key": "a2ff5dad-d983-4c88-8d40-12a64726514e",
-            "Value": {
-                "id": "adcf0261-4b76-4be4-826c-5a8a8db96fdd",
-                "resourcePath": "objects\\objTeleport\\objTeleport.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a45fb09a-5ec9-485b-8f30-810b37abacb3",
             "Value": {
                 "id": "03c7fe94-61e2-4a78-93bc-e5901a23aaa6",
@@ -327,6 +279,14 @@
             }
         },
         {
+            "Key": "bca55a6d-3a73-494a-a3d2-e215f8f289d4",
+            "Value": {
+                "id": "9f0d1225-532e-4cb9-a5af-1929cd005880",
+                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c384cd92-53b0-4649-8c5d-c5200b867011",
             "Value": {
                 "id": "52f6d745-ab19-4bdf-a54e-f39761e89535",
@@ -340,14 +300,6 @@
                 "id": "4d4a45ee-10e6-4533-8ea0-65916e1dbb34",
                 "resourcePath": "views\\c7babe82-6f02-4b0e-a5d1-d0b11981a542.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c7be4a97-a17c-440c-a0b7-4e7b1fe4abfb",
-            "Value": {
-                "id": "ca1adea8-a7b3-4f79-8961-41523a30776b",
-                "resourcePath": "sprites\\sprHole\\sprHole.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -436,14 +388,6 @@
                 "id": "ffda0b0c-e658-4d60-9474-666154da9bce",
                 "resourcePath": "fonts\\fntMainMenu\\fntMainMenu.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "eff6d943-a8a9-42f5-90fd-73188b2068a3",
-            "Value": {
-                "id": "8db1975c-bd1e-45ba-b263-ac0f32bc09cc",
-                "resourcePath": "sprites\\sprSwitchDoor\\sprSwitchDoor.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
