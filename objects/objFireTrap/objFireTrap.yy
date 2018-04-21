@@ -1,19 +1,10 @@
 {
-    "id": "7d3fbf3d-7f80-468c-b46e-9ce43ced4476",
+    "id": "07290de7-798f-4ec8-9b37-1cbd43a5fd87",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objStairs",
+    "name": "objFireTrap",
     "eventList": [
-        {
-            "id": "52da9f80-dbf4-4e27-871f-e56f50c99086",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "7d3fbf3d-7f80-468c-b46e-9ce43ced4476"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "88e04420-3e91-40f0-a584-7af38ff598a1",
+    "spriteId": "8eaa745a-84a3-4c3c-8c99-87b8423112a8",
     "visible": true
 }

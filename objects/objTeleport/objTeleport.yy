@@ -1,19 +1,10 @@
 {
-    "id": "7d3fbf3d-7f80-468c-b46e-9ce43ced4476",
+    "id": "a2ff5dad-d983-4c88-8d40-12a64726514e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objStairs",
+    "name": "objTeleport",
     "eventList": [
-        {
-            "id": "52da9f80-dbf4-4e27-871f-e56f50c99086",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "7d3fbf3d-7f80-468c-b46e-9ce43ced4476"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "88e04420-3e91-40f0-a584-7af38ff598a1",
+    "spriteId": "0c561246-ffff-43af-bd87-4bef97682ad4",
     "visible": true
 }

@@ -1,19 +1,10 @@
 {
-    "id": "7d3fbf3d-7f80-468c-b46e-9ce43ced4476",
+    "id": "879a2341-743d-4fdd-9ee6-5dbd2d88e606",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objStairs",
+    "name": "objDoor",
     "eventList": [
-        {
-            "id": "52da9f80-dbf4-4e27-871f-e56f50c99086",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "7d3fbf3d-7f80-468c-b46e-9ce43ced4476"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "88e04420-3e91-40f0-a584-7af38ff598a1",
+    "spriteId": "b4e5c091-872b-4df4-850b-02637c02f76b",
     "visible": true
 }
