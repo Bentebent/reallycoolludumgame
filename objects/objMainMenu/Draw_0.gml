@@ -3,6 +3,6 @@
 draw_set_font(fntMainMenu);
 draw_set_color(c_red);
 draw_set_halign(fa_center);
-draw_text(room_width/2, room_height/4, "Escape the Dungeon");
+draw_text(360, 150, "Escape the Bro-cave");
 draw_set_font(fntMainMenuUnderText);
-draw_text(room_width/2, (room_height/4 + 46), "Press space to start!");
+draw_text(360, 196, "Press space to start, dude!");
