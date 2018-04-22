@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "102803be-0e16-460b-92b6-e2063dd525b1",
+            "Value": {
+                "id": "bc651304-0093-4555-af20-25ab1cab7416",
+                "resourcePath": "objects\\objEndScreen\\objEndScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "107c1c44-d788-4d94-ba13-451a57317636",
             "Value": {
                 "id": "b6849228-95a5-46b8-89ce-20143f58170f",
