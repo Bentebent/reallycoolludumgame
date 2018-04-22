@@ -72,6 +72,7 @@ if global.fireBallAmount = 0
 			{
 				if (!(collision_point(x,y-sign(diffY)*16,objWall,false,false)) && !(collision_point(x,y-sign(diffY)*16,objEnemy,false,false)) && !(collision_point(x,y-sign(diffY)*16,objEnemy2,false,false)))
 				{
+					
 					y = y-sign(diffY)*16;
 				}
 				else if !(sign(diffX) == 0) // RÖR I X, OM Y INTE GÅR
