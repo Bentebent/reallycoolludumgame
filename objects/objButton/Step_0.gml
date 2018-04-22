@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (collision_point(x,y,objCharacter,false,false)) {
+if (collision_point(x,y,objCharacter,false,false) || collision_point(x,y,objEnemy,false,false) || collision_point(x,y,objEnemy2,false,false)) {
 	buttonedPressed = buttonedPressed + 1;
 }
 else {
