@@ -6,6 +6,8 @@ for (i = 0; i < 64; i++)
 	}
 }
 
+audio_play_sound(soundMusic, 1, true);
+
 global.arrayTurn = 0;
 
 global.arrayTurn[0] = objCharacter;
