@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.fireBallAmount -= 1;
-instance_destroy();
-instance_destroy(other);
+if (colliderId != -1)
+{	
+	if (place_empty(x, y))
+		colliderId = -1;
+}

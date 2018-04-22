@@ -26,3 +26,5 @@ for (i = 0; i < enemyCount2; i++)
 
 
 global.turnIndex = 0;
+
+global.fireBallAmount = 0;
