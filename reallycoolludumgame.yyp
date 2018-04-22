@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "9c803140-94cd-4f90-adb7-fe82403f93af",
+            "Value": {
+                "id": "40a19e7d-8d8a-4a76-8330-8b28ef4bb9cd",
+                "resourcePath": "fonts\\fntEndScreen\\fntEndScreen.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "9c9465e2-b96d-4134-b744-1832cd7c94ad",
             "Value": {
                 "id": "69414795-7140-4000-bff2-e085dbfcd8d8",
@@ -331,6 +339,14 @@
             "Value": {
                 "id": "6bb0a549-1353-477a-8d62-f4090cf58158",
                 "resourcePath": "fonts\\fntMainMenuUnderText\\fntMainMenuUnderText.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a2a97773-bb5a-4867-b9c8-10b9977806f5",
+            "Value": {
+                "id": "49c0dccd-5161-4110-a35c-36f88b2511c8",
+                "resourcePath": "fonts\\fntEndScreenUnderText\\fntEndScreenUnderText.yy",
                 "resourceType": "GMFont"
             }
         },
