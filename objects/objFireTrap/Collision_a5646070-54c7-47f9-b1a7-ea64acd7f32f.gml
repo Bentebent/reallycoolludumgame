@@ -6,7 +6,7 @@ if (other.id == colliderId)
 colliderId = other.id;
 moveSpeed = 15;
 		
-inst = instance_create_layer(x, y, "FireTrap_Layer", objFireBall);
+inst = instance_create_layer(x, y, "Objects_Layer", objFireBall);
 with (inst)
 {
 	speed = other.moveSpeed;
@@ -14,7 +14,7 @@ with (inst)
 	image_angle = 0;
 	global.fireBallAmount += 1;
 }
-inst = instance_create_layer(x, y, "FireTrap_Layer", objFireBall);
+inst = instance_create_layer(x, y, "Objects_Layer", objFireBall);
 with (inst)
 {
 	speed = other.moveSpeed;
@@ -22,7 +22,7 @@ with (inst)
 	image_angle = 90;
 	global.fireBallAmount += 1;
 }
-inst = instance_create_layer(x, y, "FireTrap_Layer", objFireBall);
+inst = instance_create_layer(x, y, "Objects_Layer", objFireBall);
 with (inst)
 {
 	speed = other.moveSpeed;
@@ -30,7 +30,7 @@ with (inst)
 	image_angle = 180;
 	global.fireBallAmount += 1;
 }
-inst = instance_create_layer(x, y, "FireTrap_Layer", objFireBall);
+inst = instance_create_layer(x, y, "Objects_Layer", objFireBall);
 with (inst)
 {
 	speed = other.moveSpeed;
