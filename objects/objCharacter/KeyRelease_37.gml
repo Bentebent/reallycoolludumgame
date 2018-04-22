@@ -8,7 +8,7 @@ if global.fireBallAmount = 0
 		{
 			moveSpeed = 15;
 		
-			inst = instance_create_layer(x-8, y+8, "FireTrap_Layer", objFireBall);
+			inst = instance_create_layer(x-8, y+8, "Objects_Layer", objFireBall);
 			with (inst)
 			{
 				speed = other.moveSpeed;
@@ -16,7 +16,7 @@ if global.fireBallAmount = 0
 				image_angle = 0;
 				global.fireBallAmount += 1;
 			}
-			inst = instance_create_layer(x-8, y+8, "FireTrap_Layer", objFireBall);
+			inst = instance_create_layer(x-8, y+8, "Objects_Layer", objFireBall);
 			with (inst)
 			{
 				speed = other.moveSpeed;
@@ -24,7 +24,7 @@ if global.fireBallAmount = 0
 				image_angle = 90;
 				global.fireBallAmount += 1;
 			}
-			inst = instance_create_layer(x-8, y+8, "FireTrap_Layer", objFireBall);
+			inst = instance_create_layer(x-8, y+8, "Objects_Layer", objFireBall);
 			with (inst)
 			{
 				speed = other.moveSpeed;
@@ -32,7 +32,7 @@ if global.fireBallAmount = 0
 				image_angle = 180;
 				global.fireBallAmount += 1;
 			}
-			inst = instance_create_layer(x-8, y+8, "FireTrap_Layer", objFireBall);
+			inst = instance_create_layer(x-8, y+8, "Objects_Layer", objFireBall);
 			with (inst)
 			{
 				speed = other.moveSpeed;
