@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "08566e87-a2d9-4c18-bd5a-fe0195e664de",
+            "Value": {
+                "id": "6bcadc50-dff4-4f11-9e5c-b33ae1688873",
+                "resourcePath": "sounds\\sound6\\sound6.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "101d1686-4ade-49bc-a999-2819493958c5",
             "Value": {
                 "id": "32398482-99b4-4150-9d0e-8bfa541e7c3c",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "260fb9f2-b3bd-470d-94f2-d759b2b1ac81",
+            "Value": {
+                "id": "7bef6220-53c2-4acf-b2b3-004c6db3460f",
+                "resourcePath": "sounds\\soundMusic\\soundMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "26e63b5e-3a3d-487d-b509-de076536d0f4",
             "Value": {
                 "id": "2d4892c7-d7fb-4a3f-a64c-624e076690c5",
@@ -116,6 +132,14 @@
                 "id": "c452ab8f-e5dc-4706-b309-eb1cff1057db",
                 "resourcePath": "rooms\\Room2\\Room2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2849bf57-2b2f-4431-8d83-de01cd43fb30",
+            "Value": {
+                "id": "34311ca4-1e06-42d3-9925-ba5118391107",
+                "resourcePath": "sounds\\soundBlip\\soundBlip.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -167,11 +191,27 @@
             }
         },
         {
+            "Key": "58d29f4b-a26c-41f5-b522-d73baaa9b9c6",
+            "Value": {
+                "id": "5c9dfc5b-0c90-42dd-96d6-382d1f62ca7e",
+                "resourcePath": "sounds\\soundCloseDoor\\soundCloseDoor.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "62d83533-8d1f-472d-83f8-c8b31b9a0800",
             "Value": {
                 "id": "7e57a3d0-51fa-4ca0-81df-6a59824cfa7f",
                 "resourcePath": "sprites\\sprFloor\\sprFloor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "63599fb4-ddf7-4bcb-8b97-b51f62dfeb6c",
+            "Value": {
+                "id": "c3bee47a-9036-48c6-b4f6-2e5198dec155",
+                "resourcePath": "sounds\\soundDeadEnemy\\soundDeadEnemy.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -188,6 +228,14 @@
                 "id": "2743dce1-0284-495b-9b1f-22fc71edfd03",
                 "resourcePath": "sprites\\sprFireBall\\sprFireBall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "694fdfde-182d-419f-ba66-b771d7aa845d",
+            "Value": {
+                "id": "375e267d-9f67-4781-b055-7c98940f3ff9",
+                "resourcePath": "sounds\\soundEndLevel\\soundEndLevel.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -236,6 +284,14 @@
                 "id": "ea08d0de-eda9-44ec-b768-471a5075f7e9",
                 "resourcePath": "sprites\\sprFireTrap\\sprFireTrap.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "938b68f9-df87-4e38-aa20-9f5606f68574",
+            "Value": {
+                "id": "14c25115-4da0-43be-9cc2-1029e2402314",
+                "resourcePath": "sounds\\soundDeadCharacter\\soundDeadCharacter.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -396,6 +452,14 @@
                 "id": "db54505e-4739-4f33-a9f9-1cb990fe8253",
                 "resourcePath": "scripts\\scrInit\\scrInit.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eb640f97-8c89-4147-ad57-6027c684b5af",
+            "Value": {
+                "id": "7d821f3b-7d94-4584-acab-8e9a6520fbfa",
+                "resourcePath": "sounds\\soundFireball\\soundFireball.yy",
+                "resourceType": "GMSound"
             }
         },
         {

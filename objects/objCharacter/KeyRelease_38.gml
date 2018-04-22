@@ -40,7 +40,8 @@ if global.fireBallAmount = 0
 				image_angle = 270;
 				global.fireBallAmount += 1;
 			}
-		}	
+		}
+		audio_play_sound(soundBlip,2,false);
 		y = y-16;
 		global.turnIndex += 1;
 	}

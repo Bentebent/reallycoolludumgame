@@ -42,6 +42,7 @@ if global.fireBallAmount = 0
 			}
 		
 		}
+		audio_play_sound(soundBlip,2,false);
 		x = x-16;
 		global.turnIndex += 1;
 	}
