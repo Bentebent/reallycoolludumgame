@@ -399,14 +399,6 @@
             }
         },
         {
-            "Key": "e498520b-ad37-43ba-8ec0-eca09be8e23a",
-            "Value": {
-                "id": "fdd82d1e-fe4d-4388-b1db-083efc5da73b",
-                "resourcePath": "objects\\objIce\\objIce.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ebcc324f-b682-42f5-8b2d-07609747ec73",
             "Value": {
                 "id": "ccb23eaf-7efb-465b-a404-3fde2c0c68c3",
